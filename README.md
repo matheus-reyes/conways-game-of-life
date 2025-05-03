@@ -25,7 +25,7 @@ After each iteration, we update the set with the new live cells.
 
 ### How to Test
 You can compile with the command: ```javac ConwaysGameOfLife.java```
-After compile, you can eddit the file text.txt with the input and run the program with: ```java ConwaysGameOfLife < text.txt```
+After compile, you can eddit the file text.txt with the input and run the program with: ```java ConwaysGameOfLife < test.txt```
 
 For example, with the input:
 ```txt
